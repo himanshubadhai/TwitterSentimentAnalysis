@@ -1,0 +1,1 @@
+#Alfresco problem: what is the max length of &quot;d:text&quot;? I have data for a property  that exceeds 5K characters

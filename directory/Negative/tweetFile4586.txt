@@ -1,0 +1,1 @@
+!@#$ing crap. CakePHP is really useful/nifty/spiffy, but it's got problems when it comes to filtering by related items. You just can't.

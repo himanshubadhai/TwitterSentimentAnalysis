@@ -1,0 +1,1 @@
+I dont know how to get the output type from nast and tsp01 tables... but tomorrow i will find that

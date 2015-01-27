@@ -1,0 +1,1 @@
+Git version of Gnome Shell broke Compiz. Still get nice clutter effects though.

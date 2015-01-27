@@ -1,0 +1,1 @@
+#ie8 looks ok but doesn't seem to allow feed subs with google reader and delicious buttons seems broke.

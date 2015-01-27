@@ -1,0 +1,1 @@
+- @serialseb Always thought time estimates should use 'value of Pi rule' (x 3.14). Only exception being 'Pi squared rule'.

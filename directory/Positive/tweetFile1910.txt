@@ -1,0 +1,1 @@
+!@lolunix both #! and !@ are unsearchable too, thanks to regex strips
